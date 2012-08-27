@@ -1,0 +1,3 @@
+[submodule "vendor/mortar"]
+	path = vendor/mortar
+	url = git://github.com/mozilla/mortar.git
