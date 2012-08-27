@@ -1,0 +1,11 @@
+{
+    "domain": "http://localhost",
+    "port": 3000,
+    "authPort": 3000,
+    "authUrl": "https://browserid.org",
+    "name": "sutthisan",
+    "sessions": true,
+    "session_cookie": "session_mycoolapp",
+    "session_secret": "secret",
+    "redis_key": 1
+}
