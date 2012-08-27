@@ -32,5 +32,6 @@ You'll likely want to rename the app folder, of course.
 It's pronounced "Sue tae san".
 
 It's named after สุทธิสาร (Sutthisan), my old MRT station in Bangkok. I just
-like the name and the sound of the word. You can even
-[see it on Google Maps](http://goo.gl/maps/DnE7N)!
+like the name and the sound of the word.
+
+You can even [see it on Google Maps](http://goo.gl/maps/DnE7N)!
