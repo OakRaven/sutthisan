@@ -1,1 +1,34 @@
-<p>Hello world!</p>
+<h1><%= app.conf.get('name') %></h1>
+<h2>Hey, you've got yourself an Open Web App template now!</h2>
+
+<p>
+  Congratulations; you've successfully setup sutthisan; Mozilla's Open
+  Web App template. You should check out the following files:
+</p>
+
+<dl>
+  <dt>app.js</dt>
+  <dd>
+    The server-side code for the app. You should write your own views
+    in here.
+  </dd>
+  <dt>defaults.json</dt>
+  <dd>
+    The default configs for your app. You can set environment-specific
+    options in defaults-development.json, defaults-production.json, and
+    defaults-test.json.
+  </dd>
+  <dt>public/manfest.webapp</dt>
+  <dd>
+    Your Open Web App manifest.
+  </dd>
+  <dt>views/index.erb</dt>
+  <dd>
+    The contents of this page are found in this file. It is the "base URL"
+    of your app.
+  </dd>
+  <dt>views/layout.erb</dt>
+  <dd>
+    The layout HTML for all pages in your app.
+  </dd>
+</dl>

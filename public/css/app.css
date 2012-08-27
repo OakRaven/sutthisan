@@ -2,7 +2,14 @@
 @import "defaults.css";
 
 /* Uncomment these to use Twitter Bootstrap */
-/* @import "bootstrap.css"; */
-/* @import "bootstrap-responsive.css"; */
+@import "bootstrap.css";
+@import "bootstrap-responsive.css";
 
 /* Your styles here */
+body {
+    font-size: .95em;
+}
+
+p, dl, ul, ol {
+    margin-right: 38%;
+}
