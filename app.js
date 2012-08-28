@@ -29,3 +29,5 @@ app.get('/', function(req, res) {
   // Render the index template and send it to the browser.
   res.render('index', context);
 });
+
+exports.app = app;

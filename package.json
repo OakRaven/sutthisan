@@ -24,6 +24,11 @@
     "redis": ">= 0.7.2",
     "nconfs": "~0.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "1.2.2",
+    "nock": ">= 0.13.3",
+    "should": ">= 0.0.1",
+    "supertest": ">= 0.1.1"
+  },
   "optionalDependencies": {}
 }
