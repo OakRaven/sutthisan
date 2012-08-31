@@ -2,7 +2,7 @@
 
 A lightweight, node.js/express server for Open Web Apps.
 
-## Installion ##
+## Installation ##
 
 First, you'll want `node` and `npm` installed. See
 [nodejs.org](http://nodejs.org/) for more information.
